@@ -24,8 +24,11 @@ There are many ways you can contribute to this project:
 
 People with programming experience may:
   - Report a bug
+  - Suggest solutions for reported bugs
   - Implement any item on the "TO DO" list of the project. (More specialized spiders, APIs, Algorithm implementations,....)
+  - Suggest features
   
 People without programming experienve may:
   - Suggest new ideas on the project roadmap
+  - Suggest features
   - Promote the projects to relevant people and organizations
