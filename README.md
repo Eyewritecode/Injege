@@ -12,6 +12,11 @@ This is the official implementation --indeed the first step-- of the <b>Injege -
 
 There are different types of applications that can benefit from the success of this project, both for corporate usage or public interest. Examples of such applications include Kinyarwanda spam filters, Kinyarwanda news aggregators, Kinyarwanda sentiment analysis, machine translation,spelling correction, ...
 
+<b>Included files
+
+  - README: This file
+  - Spider.py : A python web crawler specialized for Kinyarwanda websites.
+
 
 <b>Development philosophy of Injege
 
