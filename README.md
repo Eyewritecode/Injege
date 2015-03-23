@@ -22,7 +22,7 @@ I made this an open source projects in hopes to get contributions from different
 
 There are many ways you can contribute to this project:
 
-People with programming experience may
+People with programming experience may:
   - Report a bug
   - Implement any item on the "TO DO" list of the project. (More specialized spiders, APIs, Algorithm implementations,....)
   
