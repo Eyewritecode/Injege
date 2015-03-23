@@ -17,6 +17,8 @@ There are different types of applications that can benefit from the success of t
 
 I made this an open source projects in hopes to get contributions from different talents from Rwandans or friends of Rwanda who are interested in helping our mother tongue enter the digital world. As I'm aware, there is none else --corporate or public -- working on such a project, but even if there were one, I believe nothing can beat the open source community on such a project.
 
+The project is still in its infancy but I'm hoping for having time or people who can help scale it.
+
 
 <b>Contribution
 
