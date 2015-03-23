@@ -4,7 +4,7 @@ Author: Niyikiza Aimable
 
 Initial release Date: April 19, 2014
 
-Licence: IDC(I don't Care)--Use it in anyway you won't, all at your own risk.
+Licence: IDC(I don't Care)--Use it in anyway you want, all at your own risk.
 
 <b> Objectives
 
