@@ -4,11 +4,11 @@ Author: Niyikiza Aimable
 
 Initial release Date: April 19, 2014
 
-Licence: IDC(I don't Care)--Use it however you won't, all at your own risk.
+Licence: IDC(I don't Care)--Use it in anyway you won't, all at your own risk.
 
 <b> Objectives
 
-This is part --indeed the first step-- of my <b>Injege -- "Upload Kinyarwanda"</b> initiative. As a long term objective, I want to collect a large corpora of Kinyarwanda text that can be used by researchers and developers to make implementation of modern NLP algorithms on the Kinyarwanda language. 
+This is the official implementation --indeed the first step-- of the <b>Injege -- "Upload Kinyarwanda"</b> initiative. As a long term objective, I want to collect a large corpora of Kinyarwanda text that can be used by researchers and developers to make implementation of modern NLP algorithms on the Kinyarwanda language. 
 
 There are different types of applications that can benefit from the success of this project, both for corporate usage or public interest. Examples of such applications include Kinyarwanda spam filters, Kinyarwanda news aggregators, Kinyarwanda sentiment analysis, ...
 
